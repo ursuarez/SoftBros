@@ -1,0 +1,584 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"Product",
+				"ProductForm"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"p",
+				"POST"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Pro",
+				"ProductForm"
+			],
+			[
+				"h",
+				"HttpResponse"
+			],
+			[
+				"get",
+				"get_template"
+			],
+			[
+				"nombre",
+				"nombre_archivo"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"hol",
+				"holamundo"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"tab",
+				"table-caption"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"n",
+				"transparent"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"i",
+				"izquierdaOK"
+			],
+			[
+				"de",
+				"derechaOK"
+			],
+			[
+				"at",
+				"atrasOK"
+			],
+			[
+				"derecha",
+				"derecha"
+			],
+			[
+				"tifi",
+				"tifiDibujo"
+			],
+			[
+				"liz",
+				"lizURL"
+			],
+			[
+				"frente",
+				"frente"
+			],
+			[
+				"imagen",
+				"imagenOK"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"f",
+				"font	Tag"
+			],
+			[
+				"str",
+				"stroke"
+			],
+			[
+				"l",
+				"lineTo"
+			],
+			[
+				"texto",
+				"texto1"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"Cha",
+				"charmander"
+			],
+			[
+				"sq",
+				"squirtle"
+			],
+			[
+				"bu",
+				"bulbasaur"
+			],
+			[
+				"pika",
+				"pikachu"
+			],
+			[
+				"PO",
+				"Pokemon"
+			],
+			[
+				"a",
+				"ataque"
+			],
+			[
+				"sel",
+				"sely"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"he",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 134.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"INSta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"d",
+				"Package Control: Discover Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"syn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 10 - Slider/index.html",
+		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Pagina de  Inicio - Devask/css/main.css",
+		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Pagina de  Inicio - Devask/index.html",
+		"/C/Users/acidm/Documents/Proyectos Web/Devask/css/icomoon.css",
+		"/C/Users/acidm/Desktop/icomoon/icomoon.css",
+		"/C/Users/acidm/Desktop/Devask-master/index.html",
+		"/C/Users/acidm/Desktop/ProgrammingProblemsAndExercises-master/problem56.html",
+		"/C/Users/acidm/Documents/Proyectos Web/bootstrap/bootstrap.sublime-workspace",
+		"/C/Users/acidm/Documents/Python/Django/app1/Shoppy/static/css/base.css",
+		"/C/Users/acidm/Documents/Python/Django/app1/Shoppy/Shoppy_app/Shoppy_app/settings.pyc",
+		"/C/Users/acidm/Documents/Python/Django/app1/Shoppy/Shoppy_app/manage.py",
+		"/C/Users/acidm/Desktop/get-pip.py",
+		"/C/Users/acidm/Desktop/ez_setup.py",
+		"/C/Users/acidm/Desktop/ejemplo3.py",
+		"/C/Users/acidm/Desktop/ejemplo2.py",
+		"/C/Users/acidm/Desktop/ejemplo.py",
+		"/C/Users/acidm/Desktop/prueba.py",
+		"/C/Users/acidm/Documents/Proyectos Web/Portafolio/assets/css/ie8.css",
+		"/C/Users/acidm/Documents/Proyectos Web/Portafolio/assets/css/main.css",
+		"/C/Users/acidm/Documents/Proyectos Web/Pokedex/index.html",
+		"/C/Users/acidm/Documents/Proyectos Web/Soft-Bros/index.html",
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/layout.css",
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/gatos.html",
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/secciones.css",
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/editorial.css",
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/git.html",
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/index.html",
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/style.css",
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/reticula.css",
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/formas.css",
+		"/C/Users/acidm/Documents/Proyectos Web/index.html",
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/perros.html",
+		"/C/Users/acidm/Desktop/calculadora1-master/css_calculadora1.css",
+		"/C/Users/acidm/Desktop/thundercatswiki/index.html",
+		"/C/Users/acidm/Desktop/thundercatswiki/css/buttons.css",
+		"/C/Users/acidm/Desktop/thundercatswiki/thundercats.html",
+		"/C/Users/acidm/Desktop/thundercatswiki/css/grid.css",
+		"/C/Users/acidm/Desktop/thundercatswiki/css/layout.css",
+		"/C/Users/acidm/Desktop/thundercatswiki/css/reset.css",
+		"/C/Users/acidm/Desktop/thundercatswiki/css/type.css",
+		"/C/Users/acidm/Desktop/thundercatswiki/css/sections.css",
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/reset.css",
+		"/C/Users/acidm/Desktop/reportafolio/index.html",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/css/formas.css",
+		"/C/Users/acidm/Desktop/thundercatswiki/enemigos.html",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/index.html",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/gatos.html",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/perros.html",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/acerca.html",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/style.css",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/css/secciones.css",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/css/editorial.css",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/css/layout.css",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/css/reset.css",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/css/reticula.css",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/grid-systems/css/style.css",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/grid-systems/style.scss",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/css/style.css",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/Reset.css",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/secciones.css",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/Editorial.css",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/formas.css",
+		"/C/Users/acidm/Documents/proyectosHTML/FrontEnd/Layout.css",
+		"/C/Users/acidm/Documents/proyectosHTML/Ahorcado/index.html",
+		"/C/Users/acidm/Documents/proyectosHTML/Pokedex/poke.js",
+		"/C/Users/acidm/Documents/proyectosHTML/Pokedex/index.html",
+		"/C/Users/acidm/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/acidm/Desktop/platziFrontend/style.css",
+		"/C/Users/acidm/Documents/proyectosHTML/JuegoTifis/index.html",
+		"/C/Users/acidm/Documents/proyectosHTML/JuegoTifis/tifis.js",
+		"/C/Users/acidm/Documents/proyectosHTML/Pokedex/estilo.css",
+		"/C/Users/acidm/Desktop/mejorandogit-master/index.html",
+		"/C/Users/acidm/Desktop/mejorandogit-master/stylesheets/styles.css",
+		"/C/Users/acidm/Desktop/Tarea-Javascript-master/tareapokemon/pokemon1.js",
+		"/C/Users/acidm/Documents/proyectos HTML/Pokedex/poke.js",
+		"/C/Users/acidm/Documents/proyectos HTML/Pokedex/index.html",
+		"/C/Users/acidm/Desktop/Tarea-Javascript-master/tareapokemon/tarea1.html",
+		"/C/Users/acidm/Documents/proyectos HTML/Pokedex/Index.html",
+		"/C/Users/acidm/Documents/proyectos HTML/Pokedex/estilo.css",
+		"/C/Users/acidm/Desktop/chapter-master/miprimerapaginaweb/contacto.html",
+		"/C/Users/acidm/Desktop/chapter-master/miprimerapaginaweb/index.html",
+		"/C/Users/acidm/Desktop/chapter-master/miprimerapaginaweb/estilos.css",
+		"/C/Users/acidm/Documents/proyectos HTML/Pokedex/estilos.css",
+		"/C/Users/acidm/Documents/proyectos HTML/Ciclos/ciclos.html",
+		"/C/Users/acidm/Documents/proyectos HTML/Canvas/dibujo.js",
+		"/C/Users/acidm/Documents/proyectos HTML/Canvas/index.html",
+		"/C/Users/acidm/Documents/proyectos HTML/Pokedex/Pokemon.html",
+		"/C/Users/acidm/Documents/proyectos HTML/Dibujo Canvas/index.html",
+		"/C/Users/acidm/Documents/proyectos HTML/Dibujo Canvas/canvas.js",
+		"/C/Users/acidm/Documents/proyectos HTML/Ciclos.html",
+		"/C/Users/acidm/Documents/proyectos HTML/piedra.js",
+		"/C/Users/acidm/Documents/proyectos HTML/Campo  Minado/Minas.js",
+		"/C/Users/acidm/Documents/proyectos HTML/PiedraPapelTijera.html",
+		"/C/Users/acidm/Documents/proyectos HTML/Campo  Minado/JuegoCampoMinado.html",
+		"/C/Users/acidm/Documents/proyectos HTML/piedrappp.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"contador",
+			"1",
+			"num_contador",
+			"tijera",
+			")\n",
+			"tijera",
+			"opcion",
+			"nSelecciona",
+			"!\"\n",
+			"image",
+			"h2",
+			"icon fa-mobile",
+			"nobis",
+			"assumenda",
+			"deserunt",
+			"voluptatem",
+			"dolor",
+			"molestiae",
+			"cumque",
+			"quibusdam",
+			"Labore",
+			"Lorem",
+			"row",
+			"h2",
+			"../",
+			"between",
+			"li",
+			"reset",
+			"cover",
+			"assets",
+			"editorial",
+			"reset",
+			"h1",
+			"assets",
+			"Acerca",
+			"style",
+			"stylesheet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true
+}
