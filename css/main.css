@@ -66,20 +66,6 @@
 	height: 50px;
 	margin-top: 10px;
 }
-/*.app-boton{
-	margin-top: 10px;
-	height: 50px;
-	background: #0080d6;
-	color: white;
-}
-.app-boton:hover{
-	color:white;
-}
-*/
-
-
-
-
 .app-boton {
 	color: white;
 	background: #0080d6;
@@ -98,3 +84,18 @@
 	border-top: 6px solid #0080d6;
 }
 
+
+@media (max-width: 768px){
+	.app-seccion1{
+		width: 90%;
+	}
+	.app-titulo{
+		font-size: 1.8em;
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+	.app-descripcion{
+		font-size: 0.8em;
+		margin-bottom: 50px;
+	}
+}

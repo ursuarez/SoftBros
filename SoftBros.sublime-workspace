@@ -4,16 +4,36 @@
 		"selected_items":
 		[
 			[
-				"border",
-				"border-radius"
+				"margi",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background"
 			],
 			[
 				"pad",
-				"padding-bottom"
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"te",
+				"text-align"
 			],
 			[
 				"text",
-				"text-transform"
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
 			],
 			[
 				"le",
@@ -88,14 +108,6 @@
 				"table-caption"
 			],
 			[
-				"te",
-				"text-decoration"
-			],
-			[
-				"margi",
-				"margin-top"
-			],
-			[
 				"font",
 				"font-size"
 			],
@@ -110,10 +122,6 @@
 			[
 				"pa",
 				"padding-left"
-			],
-			[
-				"mar",
-				"margin-top"
 			],
 			[
 				"margin",
@@ -162,10 +170,6 @@
 			[
 				"in",
 				"inline"
-			],
-			[
-				"bac",
-				"background-color"
 			],
 			[
 				"hea",
@@ -271,7 +275,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3007,
+				"buffer_size": 4131,
 				"line_ending": "Unix"
 			}
 		},
@@ -279,8 +283,16 @@
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 706,
+				"buffer_size": 1481,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/formas.css",
+			"settings":
+			{
+				"buffer_size": 519,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -372,6 +384,9 @@
 	},
 	"file_history":
 	[
+		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 25 - Landing/index.html",
+		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 25 - Landing/css/main.css",
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/style.css",
 		"/C/Users/acidm/Documents/Proyectos Web/Devask/Devask.sublime-workspace",
 		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 10 - Slider/index.html",
 		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Pagina de  Inicio - Devask/css/main.css",
@@ -400,7 +415,6 @@
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/editorial.css",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/git.html",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/index.html",
-		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/style.css",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/reticula.css",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/formas.css",
 		"/C/Users/acidm/Documents/Proyectos Web/index.html",
@@ -547,15 +561,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 3007,
+						"buffer_size": 4131,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2223,
-								2223
+								702,
+								702
 							]
 						],
 						"settings":
@@ -565,7 +579,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 83.0,
+						"translation.y": 198.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -575,20 +589,48 @@
 					"file": "css/main.css",
 					"settings":
 					{
-						"buffer_size": 706,
+						"buffer_size": 1481,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								693,
-								180
+								1171,
+								1171
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 557.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/formas.css",
+					"settings":
+					{
+						"buffer_size": 519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								324
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
