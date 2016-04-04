@@ -275,7 +275,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4131,
+				"buffer_size": 4146,
 				"line_ending": "Unix"
 			}
 		},
@@ -283,7 +283,7 @@
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 1481,
+				"buffer_size": 1688,
 				"line_ending": "Unix"
 			}
 		},
@@ -553,7 +553,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -561,25 +561,25 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 4131,
+						"buffer_size": 4146,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								702,
-								702
+								3599,
+								4125
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 198.0,
+						"translation.y": 245.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -589,15 +589,15 @@
 					"file": "css/main.css",
 					"settings":
 					{
-						"buffer_size": 1481,
+						"buffer_size": 1688,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1171,
-								1171
+								763,
+								763
 							]
 						],
 						"settings":
@@ -606,7 +606,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 557.0,
+						"translation.y": 351.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
