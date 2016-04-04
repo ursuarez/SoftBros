@@ -9,43 +9,92 @@
 	text-transform: uppercase;
 	padding-bottom: 80px;
 }
-
 .app-navbar{
 	background: rgba(0,0,0,0.6);
 	border-radius: 0;
 }
-
 .app-link{
 	color: white;
 	text-shadow: none;
 }
-
 .app-link:hover{
 	color: white;
 }
-
 .app-nav>li>a{
 	color: white;
 	text-shadow: none;
 }
-
 .app-nav>li>a:hover{
 	color: white;
 	background-color: black;
 }
-
 .app-icon{
 	background-color: white;
 }
 
 
+/*SECCION*/
+.app-seccion1{
+	width: 60%;
+	margin: 0 auto;
+	margin-top: 170px;
+}
+.app-titulo{
+	text-align: center;
+	color: white;
+	font-size: 2.8em;
+	margin-bottom: 35px;
+}
+.app-resaltar{
+	color: #FACC2E;
+}
+.app-descripcion{
+	text-align: center;
+	color: white;
+	font-size: 1em;
+	margin-bottom: 100px;
+}
+.app-formulario1{
+	width: 100%;
+	margin: 0 auto;
+}
+.app-formulario2{
+	padding: 15px 25px 25px 25px;
+	background: rgba(0,0,0,0.6);
+}
+.app-input{
+	height: 50px;
+	margin-top: 10px;
+}
+/*.app-boton{
+	margin-top: 10px;
+	height: 50px;
+	background: #0080d6;
+	color: white;
+}
+.app-boton:hover{
+	color:white;
+}
+*/
 
 
 
 
+.app-boton {
+	color: white;
+	background: #0080d6;
+	margin-top: 10px;
+	height: 50px;
+	border-bottom: 6px solid #0064A7;
+	border-radius: 10px;
+	width: 100%;
+	transition: all 200ms linear;
+}
 
-
-
-
-
+.app-boton:hover {
+	color: white;
+	border-bottom: 0 none;
+	background-color: #0064A7;
+	border-top: 6px solid #0080d6;
+}
 

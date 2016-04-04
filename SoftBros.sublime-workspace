@@ -4,12 +4,32 @@
 		"selected_items":
 		[
 			[
-				"co",
-				"color"
+				"border",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"fon",
+				"font-family"
 			],
 			[
 				"ba",
-				"background-color"
+				"background"
+			],
+			[
+				"co",
+				"color"
 			],
 			[
 				"Product",
@@ -72,10 +92,6 @@
 				"text-decoration"
 			],
 			[
-				"text",
-				"text-decoration"
-			],
-			[
 				"margi",
 				"margin-top"
 			],
@@ -120,24 +136,12 @@
 				"list-style"
 			],
 			[
-				"fon",
-				"font-size"
-			],
-			[
 				"b",
 				"background"
 			],
 			[
-				"border",
-				"border-bottom"
-			],
-			[
 				"m",
 				"margin"
-			],
-			[
-				"pad",
-				"padding"
 			],
 			[
 				"bor",
@@ -267,7 +271,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2086,
+				"buffer_size": 3007,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 706,
 				"line_ending": "Unix"
 			}
 		}
@@ -535,22 +547,48 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 2086,
+						"buffer_size": 3007,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1311,
-								1311
+								2223,
+								2223
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 83.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								693,
+								180
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
