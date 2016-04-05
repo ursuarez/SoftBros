@@ -4,8 +4,16 @@
 		"selected_items":
 		[
 			[
+				"ba",
+				"background"
+			],
+			[
 				"margi",
-				"margin-top"
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-weight"
 			],
 			[
 				"mar",
@@ -42,10 +50,6 @@
 			[
 				"fon",
 				"font-family"
-			],
-			[
-				"ba",
-				"background"
 			],
 			[
 				"co",
@@ -106,10 +110,6 @@
 			[
 				"tab",
 				"table-caption"
-			],
-			[
-				"font",
-				"font-size"
 			],
 			[
 				"n",
@@ -275,23 +275,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4146,
-				"line_ending": "Unix"
+				"buffer_size": 4746,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 1688,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/formas.css",
-			"settings":
-			{
-				"buffer_size": 519,
+				"buffer_size": 2359,
 				"line_ending": "Windows"
 			}
 		}
@@ -384,8 +376,16 @@
 	},
 	"file_history":
 	[
+		"/C/Users/acidm/Desktop/particles.js-master/particles.js",
+		"/C/Users/acidm/Documents/Proyectos Web/SoftBros/js/particulas.js",
+		"/C/Users/acidm/Desktop/particles.js-master/demo/index.html",
+		"/C/Users/acidm/Desktop/particles.js-master/particles.min.js",
+		"/C/Users/acidm/Desktop/particles.js-master/demo/js/app.js",
+		"/C/Users/acidm/Desktop/particles.js-master/demo/js/lib/stats.js",
 		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 25 - Landing/index.html",
 		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 25 - Landing/css/main.css",
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/formas.css",
+		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 25 - Landing/css/icomoon.css",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/style.css",
 		"/C/Users/acidm/Documents/Proyectos Web/Devask/Devask.sublime-workspace",
 		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 10 - Slider/index.html",
@@ -416,7 +416,6 @@
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/git.html",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/index.html",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/reticula.css",
-		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/formas.css",
 		"/C/Users/acidm/Documents/Proyectos Web/index.html",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/perros.html",
 		"/C/Users/acidm/Desktop/calculadora1-master/css_calculadora1.css",
@@ -561,15 +560,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 4146,
+						"buffer_size": 4746,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3599,
-								4125
+								2554,
+								2554
 							]
 						],
 						"settings":
@@ -579,7 +578,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 245.0,
+						"translation.y": 88.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -589,15 +588,15 @@
 					"file": "css/main.css",
 					"settings":
 					{
-						"buffer_size": 1688,
+						"buffer_size": 2359,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								763,
-								763
+								1020,
+								1020
 							]
 						],
 						"settings":
@@ -606,34 +605,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 351.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/formas.css",
-					"settings":
-					{
-						"buffer_size": 519,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								14,
-								324
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 478.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
