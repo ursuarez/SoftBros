@@ -92,7 +92,6 @@
 
 
 /* SECCION 2 --------------------------*/
-
 .app-seccion2{
 	margin: 80px 0;
 }
@@ -122,6 +121,13 @@
 	color: white;
 	font-size: 30px;
 	padding: 10px;
+}
+
+
+/* SECCION 3 --------------------------*/
+.app-seccion3{
+	background-color: #f7f8fa;
+	padding: 80px 0;
 }
 
 
@@ -163,13 +169,7 @@
 
 
 
-#particles-js {
-	width: 100%;
-	height: 100%;
-	position: fixed;
-	/*background: rgba(0,0,0,0.8);*/
 
-	}
 
 @media (max-width: 768px){
 	.app-seccion1{
