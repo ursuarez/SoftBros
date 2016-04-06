@@ -3,8 +3,9 @@
    ========================================================================== */
 
 
+/* HEADER --------------------------*/
 .app-header{
-	background: url("../img/img2.jpg") no-repeat center top fixed;
+	background: url("../img/img1.jpg") no-repeat center top fixed;
 	font-family: "Avenir", Futura, Helvetica, sans-serif;
 	letter-spacing: 2px;
 	text-transform: uppercase;
@@ -37,7 +38,7 @@
 }
 
 
-/*SECCION*/
+/* SECCION 1 --------------------------*/
 .app-seccion1{
 	width: 60%;
 	margin: 0 auto;
@@ -90,9 +91,42 @@
 }
 
 
+/* SECCION 2 --------------------------*/
+
+.app-seccion2{
+	margin: 80px 0;
+}
+
+.app-titulo2{
+	margin-top: 0;
+}
+
+.app-separador{
+	width:100px;
+	border-bottom: 1px solid #0080d6;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.app-justificar{
+	text-align: justify;
+	color: #727272;
+}
+
+.app-media{
+	margin-top: 40px;
+}
+
+.app-glyphicon1{
+	background-color: #0080d6;
+	color: white;
+	font-size: 30px;
+	padding: 10px;
+}
 
 
-/*FOOTER*/
+
+/* FOOTER --------------------------*/
 .app-footer{
 	text-align: center;
 	background: #111111;
