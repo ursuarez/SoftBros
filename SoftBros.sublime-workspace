@@ -8,12 +8,24 @@
 				"background"
 			],
 			[
-				"margi",
-				"margin-bottom"
+				"pa",
+				"padding"
 			],
 			[
 				"font",
-				"font-weight"
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"app",
+				"app-seccion1"
 			],
 			[
 				"mar",
@@ -38,10 +50,6 @@
 			[
 				"text",
 				"text-align"
-			],
-			[
-				"border",
-				"border-radius"
 			],
 			[
 				"le",
@@ -118,10 +126,6 @@
 			[
 				"tex",
 				"text-decoration"
-			],
-			[
-				"pa",
-				"padding-left"
 			],
 			[
 				"margin",
@@ -275,15 +279,40 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4746,
+				"buffer_size": 9730,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "inicio.html",
+			"settings":
+			{
+				"buffer_size": 6235,
+				"line_ending": "Windows",
+				"name": "Inicio.html"
 			}
 		},
 		{
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 2359,
+				"buffer_size": 2880,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/acidm/Documents/Proyectos Web/Devask/prueba.html",
+			"settings":
+			{
+				"buffer_size": 9614,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/acidm/Documents/Proyectos Web/Devask/css/main.css",
+			"settings":
+			{
+				"buffer_size": 341,
 				"line_ending": "Windows"
 			}
 		}
@@ -376,19 +405,22 @@
 	},
 	"file_history":
 	[
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/index.html",
+		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 10 - Slider/index.html",
+		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 25 - Landing/css/main.css",
+		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 25 - Landing/index.html",
+		"/C/Users/acidm/Documents/Proyectos Web/SoftBros/css/main.css",
+		"/C/Users/acidm/Desktop/FIA/TPROLOG/EXAMPL01.PRO",
 		"/C/Users/acidm/Desktop/particles.js-master/particles.js",
 		"/C/Users/acidm/Documents/Proyectos Web/SoftBros/js/particulas.js",
 		"/C/Users/acidm/Desktop/particles.js-master/demo/index.html",
 		"/C/Users/acidm/Desktop/particles.js-master/particles.min.js",
 		"/C/Users/acidm/Desktop/particles.js-master/demo/js/app.js",
 		"/C/Users/acidm/Desktop/particles.js-master/demo/js/lib/stats.js",
-		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 25 - Landing/index.html",
-		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 25 - Landing/css/main.css",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/formas.css",
 		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 25 - Landing/css/icomoon.css",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/style.css",
 		"/C/Users/acidm/Documents/Proyectos Web/Devask/Devask.sublime-workspace",
-		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 10 - Slider/index.html",
 		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Pagina de  Inicio - Devask/css/main.css",
 		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Pagina de  Inicio - Devask/index.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Devask/css/icomoon.css",
@@ -414,7 +446,6 @@
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/secciones.css",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/editorial.css",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/git.html",
-		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/index.html",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/reticula.css",
 		"/C/Users/acidm/Documents/Proyectos Web/index.html",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/perros.html",
@@ -560,15 +591,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 4746,
+						"buffer_size": 9730,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2554,
-								2554
+								2100,
+								2100
 							]
 						],
 						"settings":
@@ -578,25 +609,54 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 88.0,
+						"translation.y": 152.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "css/main.css",
+					"file": "inicio.html",
 					"settings":
 					{
-						"buffer_size": 2359,
+						"buffer_size": 6235,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1020,
-								1020
+								4077,
+								4077
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Inicio.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 2880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								435,
+								435
 							]
 						],
 						"settings":
@@ -605,7 +665,61 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 478.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/acidm/Documents/Proyectos Web/Devask/prueba.html",
+					"settings":
+					{
+						"buffer_size": 9614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6271,
+								6271
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 35.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/acidm/Documents/Proyectos Web/Devask/css/main.css",
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
