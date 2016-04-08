@@ -276,20 +276,20 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 9730,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "inicio.html",
 			"settings":
 			{
 				"buffer_size": 6235,
 				"line_ending": "Windows",
 				"name": "Inicio.html"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 9730,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -304,15 +304,7 @@
 			"file": "/C/Users/acidm/Documents/Proyectos Web/Devask/prueba.html",
 			"settings":
 			{
-				"buffer_size": 9614,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/acidm/Documents/Proyectos Web/Devask/css/main.css",
-			"settings":
-			{
-				"buffer_size": 341,
+				"buffer_size": 9615,
 				"line_ending": "Windows"
 			}
 		}
@@ -405,6 +397,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/acidm/Documents/Proyectos Web/Devask/css/main.css",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/index.html",
 		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 10 - Slider/index.html",
 		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 25 - Landing/css/main.css",
@@ -583,39 +576,11 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 9730,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2100,
-								2100
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 152.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "inicio.html",
 					"settings":
 					{
@@ -638,7 +603,35 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 236.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 9730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3542,
+								3542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 452.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -655,8 +648,8 @@
 						"selection":
 						[
 							[
-								165,
-								165
+								544,
+								526
 							]
 						],
 						"settings":
@@ -675,35 +668,7 @@
 					"file": "/C/Users/acidm/Documents/Proyectos Web/Devask/prueba.html",
 					"settings":
 					{
-						"buffer_size": 9614,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6271,
-								6271
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 35.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/acidm/Documents/Proyectos Web/Devask/css/main.css",
-					"settings":
-					{
-						"buffer_size": 341,
+						"buffer_size": 9615,
 						"regions":
 						{
 						},
@@ -716,10 +681,12 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 35.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
