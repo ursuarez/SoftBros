@@ -304,7 +304,7 @@
 			"file": "/C/Users/acidm/Documents/Proyectos Web/Devask/prueba.html",
 			"settings":
 			{
-				"buffer_size": 9615,
+				"buffer_size": 10770,
 				"line_ending": "Windows"
 			}
 		}
@@ -397,12 +397,12 @@
 	},
 	"file_history":
 	[
+		"/C/Users/acidm/Documents/Proyectos Web/SoftBros/css/main.css",
 		"/C/Users/acidm/Documents/Proyectos Web/Devask/css/main.css",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/index.html",
 		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 10 - Slider/index.html",
 		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 25 - Landing/css/main.css",
 		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 25 - Landing/index.html",
-		"/C/Users/acidm/Documents/Proyectos Web/SoftBros/css/main.css",
 		"/C/Users/acidm/Desktop/FIA/TPROLOG/EXAMPL01.PRO",
 		"/C/Users/acidm/Desktop/particles.js-master/particles.js",
 		"/C/Users/acidm/Documents/Proyectos Web/SoftBros/js/particulas.js",
@@ -576,7 +576,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -620,8 +620,8 @@
 						"selection":
 						[
 							[
-								3542,
-								3542
+								3280,
+								3303
 							]
 						],
 						"settings":
@@ -631,7 +631,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 452.0,
+						"translation.y": 922.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -648,8 +648,8 @@
 						"selection":
 						[
 							[
-								544,
-								526
+								449,
+								477
 							]
 						],
 						"settings":
@@ -658,7 +658,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 5.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -668,7 +668,7 @@
 					"file": "/C/Users/acidm/Documents/Proyectos Web/Devask/prueba.html",
 					"settings":
 					{
-						"buffer_size": 9615,
+						"buffer_size": 10770,
 						"regions":
 						{
 						},
@@ -749,7 +749,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 236.0,
 	"status_bar_visible": true
 }
