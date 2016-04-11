@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"mag",
+				"margin-bottom"
+			],
+			[
 				"ba",
 				"background"
 			],
@@ -16,20 +28,12 @@
 				"font-size"
 			],
 			[
-				"margi",
-				"margin-top"
-			],
-			[
 				"border",
 				"border-bottom"
 			],
 			[
 				"app",
 				"app-seccion1"
-			],
-			[
-				"mar",
-				"margin-top"
 			],
 			[
 				"bac",
@@ -279,24 +283,24 @@
 			"file": "inicio.html",
 			"settings":
 			{
-				"buffer_size": 6235,
+				"buffer_size": 6206,
 				"line_ending": "Windows",
 				"name": "Inicio.html"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 9730,
-				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 2880,
+				"buffer_size": 2883,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 9722,
 				"line_ending": "Windows"
 			}
 		},
@@ -312,9 +316,17 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 134.0,
+		"height": 200.0,
 		"selected_items":
 		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
 			[
 				"insta",
 				"Package Control: Install Package"
@@ -380,7 +392,7 @@
 				"Set Syntax: JavaScript"
 			]
 		],
-		"width": 520.0
+		"width": 408.0
 	},
 	"console":
 	{
@@ -397,6 +409,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/acidm/Documents/Proyectos Web/SoftBros/css/inicio.styl",
+		"/C/Users/acidm/Documents/Proyectos Web/SoftBros/css/inicio.css",
 		"/C/Users/acidm/Documents/Proyectos Web/SoftBros/css/main.css",
 		"/C/Users/acidm/Documents/Proyectos Web/Devask/css/main.css",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/index.html",
@@ -576,7 +590,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -584,15 +598,15 @@
 					"file": "inicio.html",
 					"settings":
 					{
-						"buffer_size": 6235,
+						"buffer_size": 6206,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4077,
-								4077
+								2715,
+								2715
 							]
 						],
 						"settings":
@@ -603,25 +617,52 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 236.0,
+						"translation.y": 206.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "index.html",
+					"file": "css/main.css",
 					"settings":
 					{
-						"buffer_size": 9730,
+						"buffer_size": 2883,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3280,
-								3303
+								918,
+								918
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 95.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 9722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8162,
+								8162
 							]
 						],
 						"settings":
@@ -631,34 +672,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 922.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "css/main.css",
-					"settings":
-					{
-						"buffer_size": 2880,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								449,
-								477
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 5.0,
+						"translation.y": 1950.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
